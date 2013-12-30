@@ -41,7 +41,7 @@ $(document).ready(function() {
 	}
 	
 	label.label-yes {
-		background-image:url('./yes-no.png');
+		background-image:url('./img/yes-no.png');
 		width:100px;
 		height:50px;
 		background-repeat:no-repeat;
