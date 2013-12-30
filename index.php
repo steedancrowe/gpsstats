@@ -56,7 +56,7 @@ $(document).ready(function() {
 		background-position:-100px 0;		
 	}	
 	label.label-no {
-		background-image:url('./yes-no.png');
+		background-image:url('./img/yes-no.png');
 		width:100px;
 		height:50px;
 		background-repeat:no-repeat;
@@ -66,7 +66,7 @@ $(document).ready(function() {
 	}
 	
 	label.label-indoors {
-		background-image:url('./indoors-outdoors.png');
+		background-image:url('./img/indoors-outdoors.png');
 		width:100px;
 		height:91px;
 		background-repeat:no-repeat;
@@ -83,7 +83,7 @@ $(document).ready(function() {
 		background-position:-100px 0;		
 	}	
 	label.label-outdoors {
-		background-image:url('./indoors-outdoors.png');
+		background-image:url('./img/indoors-outdoors.png');
 		width:100px;
 		height:91px;
 		background-repeat:no-repeat;
